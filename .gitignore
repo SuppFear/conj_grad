@@ -1,0 +1,17 @@
+tests/conj_grad_iteration.txt
+tests/a.out
+tests/jacobi_iteration.txt
+tests/conj_grad_time.txt
+tests/gauss_seidel_iteration.txt
+tests/gauss_seidel_time.txt
+tests/grad_desc_iteration.txt
+tests/grad_desc_time.txt
+tests/timer.py
+tests/iterator.py
+tests/jacobi_time.txt
+tests/simple_chebyshev_iteration.txt
+tests/simple_chebyshev_time.txt
+tests/simple_iteration.txt
+tests/simple_time.txt
+tests/sym_gauss_seidel_iteration.txt
+tests/sym_gauss_seidel_time.txt
